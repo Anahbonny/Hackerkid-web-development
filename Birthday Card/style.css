@@ -1,0 +1,72 @@
+#outershell {
+    height: 600px;
+    width: 400px;
+    background-color: rgb(227, 185, 255);
+    margin: auto;
+    box-shadow: 10px 10px 10px #aaa8a8;
+    border-radius: 50px;
+}
+
+.maintext {
+    color: rgb(156, 0, 133);
+    font-size: 12px;
+    padding-bottom: 5px;
+}
+
+#star {
+    width: 400px;
+    /* margin-left: 50px; */
+    z-index: 1;
+}
+
+#Unicorn {
+
+    width: 300px;
+    margin-left: 50px;
+    position: relative;
+    z-index: 2;
+    top: -600px;
+}
+
+#info {
+    position: relative;
+    top: -600px;
+    background-color: #f0c4ff;
+    border-radius: 100px;
+    border: dotted 2px #9100a4;
+    box-shadow: 2px 2px 10px;
+    width: 250px;
+    margin-left: 75px;
+    height: 320px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin-top: 50px;
+    padding: 0px;
+    font-family: cursive
+}
+
+#name {
+    font-size: x-large;
+    color: #9100a4;
+    text-shadow: 5px 2px 10px #b3b2b3;
+}
+
+#date {
+    color: #590076;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+#place {
+    color: #8c009b;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+#join {
+    padding-bottom: 10px;
+    color: #84028f;
+}
